@@ -1,0 +1,4 @@
+[webservers]
+51.20.65.76 ansible_user=ubuntu ansible_ssh_private_key_file=/mnt/c/Users/Dell/Downloads/new.pem
+13.51.204.62 ansible_user=ubuntu ansible_ssh_private_key_file=/mnt/c/Users/Dell/Downloads/t-ansible.pem
+
